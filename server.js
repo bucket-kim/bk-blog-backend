@@ -3,6 +3,11 @@ const app = express();
 const Post = require("./api/model/post");
 const postData = new Post();
 const port = 8000;
+const cors = require("cors");
+
+app.use(cors());
+
+app.use("/uploads", express.static("uploads"));
 
 app.get("/post", (req, res) => {
   res.status(200).send(postData.get());
