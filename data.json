@@ -1,9 +1,1 @@
-[
-  {
-    "id": "1617929237611",
-    "title": "My First Blog!",
-    "content": "I built this blog from scratch, using HTML, CSS, and Javascript. This blog is a full stack build, applying what I learned from my online class. I used Node JS to build REST API. Though this was a bit challenging implying basic knowledge to realistic build, I can't wait to build more cool apps and be a better developer in the future. I'm glad I can share my thoughts to the world!\n\nEnjoy my personal blog, and let's reach for the sky!\n\nP.S. make sure to read only, since this is my personal diary :)",
-    "post_image": "uploads/post_image-1617929237579.png",
-    "added_date": "1617929237611"
-  }
-]
+[{"id":"1617933345727","title":"Amazon React Cart Practice","content":"I recently built an Amazon React Cart with React and deployed it live. I'm still getting used to how to implement components and hooks to \"react\" fast. I think I'm going to practice and use react more often, as I practice more algorithms. \n\nhttps://amazon-cart-bk.netlify.app/\n\ncheck em out!","post_image":"uploads/post_image-1617933345716.png","added_date":"1617933345727"},{"id":"1617929237611","title":"My First Blog!","content":"I built this blog from scratch, using HTML, CSS, and Javascript. This blog is a full stack build, applying what I learned from my online class. I used Node JS to build REST API. Though this was a bit challenging implying basic knowledge to realistic build, I can't wait to build more cool apps and be a better developer in the future. I'm glad I can share my thoughts to the world!\n\nEnjoy my personal blog, and let's reach for the sky!\n\nP.S. make sure to read only, since this is my personal diary :)","post_image":"uploads/post_image-1617929237579.png","added_date":"1617929237611"}]
